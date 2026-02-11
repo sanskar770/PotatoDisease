@@ -2,7 +2,8 @@ PlantDoc AI is a modern web application that uses deep learning to detect and cl
 
 🎬 Demo
 Live Demo
-🌐 URL: http://http://3.110.29.37:5000 
+🌐 URL: http://3.110.29.37:5000
+
 
 Try It Yourself
 bash# Clone the repository
